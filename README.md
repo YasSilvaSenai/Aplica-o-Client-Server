@@ -1,2 +1,19 @@
-# Aplica-o-Client-Server
-aplicação client-server utilizando Node.js/Express e MySQL como banco de dados. Ele implementa uma arquitetura organizada com middlewares e logger, garantindo rastreabilidade e controle de erros.
+# Aplicação Client-Server com MySQL, Middlewares e Logger
+
+## Descrição
+Este projeto é uma aplicação **client-server** desenvolvida com **Node.js/Express** e **MySQL**. Ele segue uma arquitetura modular e organizada, utilizando **middlewares** para validação, autenticação e tratamento de erros, além de um **logger** para registrar todas as requisições e respostas, permitindo monitoramento e depuração eficientes.
+
+A aplicação permite realizar operações CRUD (Criar, Ler, Atualizar e Excluir) em um banco de dados MySQL, garantindo escalabilidade e segurança para aplicações corporativas.
+
+
+
+## Tecnologias Utilizadas
+- **Node.js**  
+- **Express.js**  
+- **MySQL**  
+- **Middlewares personalizados**  
+- **Logger (morgan/winston ou similar)**  
+
+
+
+## Estrutura do Projeto
